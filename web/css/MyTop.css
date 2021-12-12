@@ -1,0 +1,17 @@
+*{
+	margin: 0 auto;
+}
+
+#top_main{
+	width: 978px;
+	height: 80px;
+}
+
+#top_main h1{
+	padding-left: 500px;
+	padding-top: 60px;
+	color: bisque;
+	font-size: 60px;
+}
+
+
